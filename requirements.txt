@@ -1,0 +1,14 @@
+ultralytics
+roboflow
+torch
+torchvision
+opencv-python
+numpy
+pandas
+matplotlib
+Pillow
+PyYAML
+scikit-learn
+
+
+فایل requirements.txt شامل کتابخانه‌ها و وابستگی‌های مورد نیاز برای اجرای پروژه است. این فایل امکان نصب یکپارچه کتابخانه‌های مورد استفاده در آموزش، ارزیابی و تحلیل مدل‌های تشخیص اشیا را فراهم می‌کند.
