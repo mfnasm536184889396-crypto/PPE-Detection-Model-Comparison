@@ -1,0 +1,16 @@
+Project Results
+
+The experimental results of the evaluated deep learning models are presented in the research paper.
+
+Evaluation metrics include:
+Precision
+Recall
+mAP@50
+mAP@50:95
+F1-Score
+Confusion Matrix
+FPS / Inference Time
+Parameters
+FLOPs
+Model Size
+Training Time
